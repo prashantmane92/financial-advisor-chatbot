@@ -1,6 +1,3 @@
-# financial-advisor-chatbot
-A Financial Advisor Chatbot powered by LLMs that provides personalized financial guidance and answers questions about investments, savings, and financial planning.
-
 # Financial Advisor Chatbot
 
 An intelligent financial advisor chatbot built with Streamlit and Large Language Models. This application provides personalized financial guidance, answers questions about investments, savings, and helps with financial planning decisions.

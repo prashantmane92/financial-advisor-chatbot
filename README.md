@@ -92,6 +92,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [@prashantmane92](https://github.com/prashantmane92)
+Prashant Mane - [@prashantmane92](https://github.com/prashantmane92)
 
 Project Link: [https://github.com/prashantmane92/financial-advisor-chatbot](https://github.com/prashantmane92/financial-advisor-chatbot)

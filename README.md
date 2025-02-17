@@ -19,3 +19,6 @@ An intelligent financial advisor chatbot built with Streamlit and Large Language
 ## Installation
 
 1. Clone the repository
+bash
+git clone https://github.com/yourusername/financial-advisor-bot.git
+cd financial-advisor-bot

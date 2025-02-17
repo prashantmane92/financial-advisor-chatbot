@@ -20,10 +20,9 @@ An intelligent financial advisor chatbot built with Streamlit and Large Language
 
 1. Clone the repository
 
-`bash
-git clone https://github.com/prashantmane92/financial-advisor-chatbot.git`
-`bash
-cd financial-advisor-bot`
+`git clone https://github.com/prashantmane92/financial-advisor-chatbot.git`
+
+`cd financial-advisor-bot`
 
 2. Create and activate virtual environment
 
